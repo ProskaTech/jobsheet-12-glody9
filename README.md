@@ -1,6 +1,7 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9369648&assignment_repo_type=AssignmentRepo)
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+Nama  : Glody Syah Rabbynawa
+NIM   : 21343077
+
+1. Latihan 1 Inheritence : program membuat sebuah kelas bernama kendaraan yang kemudian dijadikan induk untuk kelas anak bernama roda dua dan roda empat. program javainheritence menampilkan kedua kelas tersebut dengan inheritence dari kelas induk (kendaraan)
+2. Latihan 2 Polymorphism :  Polymorphism Prinsip polymorphism pada OOP adalah konsep di mana suatu objek berbeda-beda dapat diakses melalui satu interface. Sebuah objek polymorphic dapatberadaptasi dengan metode apapun yang diimplementasikan pada objek tersebut kelas compiletime dijadikan sebagai kelas berisi method yang kemudian digunakan pada kelas polymorphismStatic. polymorphism dynamic adalah polymorphism yang berada dalam satu kode
+3. Latihan 3 Abstract Interface : Abstraction adalah Proses untuk menyembunyikan detail implementasi dan hanya sisi fungsionalitas (gambaran umum) saja yang ditampilkan. Abstraction di java terbagi menjadi dua yaitu class abstract dan interface.
+4. Latihan 4 Encapsulation : kelas encapsulationbuah digunakan untuk membuat method method serta mendeklarasikan getter setter supaya kelas buahUtama dapat menggunakanya
